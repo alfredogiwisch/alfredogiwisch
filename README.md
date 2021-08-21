@@ -2,7 +2,8 @@
 - 👀 I’m interested in Embedded Systems, Electronics projects, Arduino, Microcontrollers hardware and software development
 - 🌱 I’m currently learning as frontend React with Javascript, HTML, CSS
 - 💞️ I’m looking to collaborate and work on IT projects to enrich my skills
-- 📫 How to reach me -> alfredo.giwisch@gmail.com or -> Whatsapp +54 11 54629516 or  -> Twitter @giwisch
+- 📫 How to reach me -> alfredo.giwisch@gmail.com or -> Whatsapp call +54 11 54629516 or  -> Twitter @giwisch
+- 🎞️ I uploaded a video about the digital dashboard -> https://www.youtube.com/watch?v=gClL3klPd6k&ab_channel=alfredokiwi
 
 <!---
 alfredogiwisch/alfredogiwisch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
